@@ -1,0 +1,31 @@
+body, html {
+  height: 100%;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+.title {
+  text-align: center;
+}
+
+.counter-container {
+  width: 100%;
+  text-align: center;
+}
+
+.counter-number {
+  font-size: 10em;
+}
+
+.counter-button {
+  font-size: 8em;
+  line-height: 100px;
+  vertical-align: middle;
+  padding: .5em;
+  margin: 20px;
+  width: 20%;
+  border: none;
+  background-color: #2ed2ff;
+}
